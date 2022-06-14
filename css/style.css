@@ -195,7 +195,7 @@ header .main-nav li:first-child a:hover::after {
 		top: 100%;
 		right: 0px;
 		width: 100%;
-		background: rgba(0, 0, 0, 0.1);
+		background: rgba(0, 0, 0, 0.5);
 		z-index: 1;
 	}
 	header .links .toggle-menu:hover + ul li a {
